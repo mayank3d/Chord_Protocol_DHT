@@ -13,4 +13,6 @@ Here 1024 is the number of nodes in the network and 5 is the request at each nod
 You can use any values for node count and messages, however a number in power of two is recommended.
 The program will display statistics while it is running and at termination it produces average number of hops each message has to travel to locate desired key in the DHT.
 
+The code has been working successfully with 1 Million Nodes on a single machine.
+
 Happy Hashing !!
